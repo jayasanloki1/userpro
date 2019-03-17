@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">userpro</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="rotate_90">rotate 90</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO2</string>
+    <string name="textview3">TextView</string>
+
+</resources>
